@@ -1,0 +1,11 @@
+opencv-python
+imutils
+numpy
+deepface
+tensorflow
+matplotlib
+pandas
+scikit-learn
+seaborn
+flask
+pyttsx3
